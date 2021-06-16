@@ -11,11 +11,13 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "expo-av": "^9.1.2",
     "react": "17.0.1",
     "react-native": "0.64.2",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-google-pay": "^2.1.0",
     "react-native-responsive-screen": "^1.4.2",
+    "react-native-unimodules": "^0.13.3",
     "stripe-client": "^1.1.5"
   },
   "devDependencies": {
